@@ -20,6 +20,7 @@ setup(
     ],
     version = VERSION,
     packages = find_packages(),
+    url = 'https://github.com/jmei91/loggy',
     author = 'Jie Mei',
     author_email = 'mei.jie@hotmail.com',
     )
